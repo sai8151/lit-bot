@@ -28,11 +28,13 @@ def get_most_similar_plan(user_input):
     # Find the most similar plan based on keyword matching
     max_similarity = -1
     most_similar_plan = ""
-    for plan, target_audience in zip(plans, target_audience_list):
+    target_audience = ""
+    for plan, audience in zip(plans, target_audience_list):
         similarity = sum(word in user_input for word in plan.split())
         if similarity > max_similarity:
             max_similarity = similarity
             most_similar_plan = plan
+            target_audience = audience
 
     return f"{most_similar_plan.title()} - {target_audience}"
 
