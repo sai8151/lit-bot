@@ -1,0 +1,172 @@
+{
+    "schemes": [
+        {
+            "plan": "Hey",
+            "target_audience": "Hey! How's it going?"
+        },
+        {
+            "plan": "What's up",
+            "target_audience": "Not much. What about you?"
+        },
+        {
+            "plan": "Howdy",
+            "target_audience": "Howdy! What can I do ya for?"
+        },
+        {
+            "plan": "Hiya",
+            "target_audience": "Hiya! What's on your mind?"
+        },
+        {
+            "plan": "Yo",
+            "target_audience": "Yo! What's good?"
+        },
+        {
+            "plan": "Hello there",
+            "target_audience": "General Kenobi! Just kidding. What can I do for you?"
+        },
+        {
+            "plan": "Greetings",
+            "target_audience": "Greetings! How may I assist you?"
+        },
+        {
+            "plan": "Good to see you",
+            "target_audience": "Good to see you too! What brings you here?"
+        },
+        {
+            "plan": "Hey buddy",
+            "target_audience": "Hey buddy! What's the latest?"
+        },
+        {
+            "plan": "Hi friend",
+            "target_audience": "Hi friend! What's new?"
+        },
+        {
+            "plan": "Hello friend",
+            "target_audience": "Hello friend! How can I help you today?"
+        },
+        {
+            "plan": "Hi folksusage",
+            "target_audience": "Hi folks! What can I do for the group?"
+        },
+        {
+            "plan": "Good day",
+            "target_audience": "Good day! What can I assist you with?"
+        },
+        {
+            "plan": "Hey you",
+            "target_audience": "Hey you! What's going on?"
+        },
+        {
+            "plan": "Hi team",
+            "target_audience": "Hi team! How can I support you today?"
+        },
+        {
+            "plan": "Equity Mutual Funds",
+            "target_audience": "Those seeking high long-term returns with high-risk tolerance. They typically invest in a diversified portfolio of stocks."
+        },
+        {
+            "plan": "Small-Cap Funds",
+            "target_audience": "Ideal for investors looking for potentially higher returns by investing in smaller companies with higher risk tolerance."
+        },
+        {
+            "plan": "Mid-Cap Funds",
+            "target_audience": "Suited for investors seeking a balance of risk and reward, typically investing in medium-sized companies."
+        },
+        {
+            "plan": "Value Investing Funds",
+            "target_audience": "Tailored for investors willing to research and analyze undervalued stocks to achieve long-term capital appreciation."
+        },
+        {
+            "plan": "Direct Equity Investing",
+            "target_audience": "Geared towards individuals with significant knowledge and time for high-risk, high-reward investments by directly investing in stocks."
+        },
+        {
+            "plan": "ELSS (Equity Linked Saving Schemes)",
+            "target_audience": "Designed for those looking for tax deductions under Section 80C of the Income Tax Act while investing in equity-linked mutual funds."
+        },
+        {
+            "plan": "PPF (Public Provident Fund)",
+            "target_audience": "Suitable for investors seeking long-term tax-free investment with guaranteed returns, often used for retirement planning and tax-saving purposes."
+        },
+        {
+            "plan": "NPS (National Pension Scheme)",
+            "target_audience": "Ideal for individuals planning for retirement, offering tax benefits and a pension upon maturity."
+        },
+        {
+            "plan": "ULIPs (Unit Linked Insurance Plans)",
+            "target_audience": "Tailored for those seeking insurance and investment benefits with tax advantages, combining investment and insurance under a single plan."
+        },
+        {
+            "plan": "Fixed Deposits (FDs)",
+            "target_audience": "Suitable for investors seeking safe and guaranteed returns by depositing funds for a fixed tenure with a financial institution."
+        },
+        {
+            "plan": "Post Office Savings Accounts",
+            "target_audience": "Ideal for individuals seeking safe and secure savings with decent interest rates offered by the postal system."
+        },
+        {
+            "plan": "Gold",
+            "target_audience": "Suited for investors seeking a hedge against inflation and a store of value, often considered a safe haven asset."
+        },
+        {
+            "plan": "Government Bonds",
+            "target_audience": "Designed for investors seeking low-risk, guaranteed returns backed by the government, typically used for preserving capital and generating income."
+        },
+        {
+            "plan": "Annuity Plans",
+            "target_audience": "Geared towards individuals seeking regular income after retirement by investing a lump sum amount with an insurance company."
+        },
+        {
+            "plan": "Senior Citizen Savings Scheme (SCSS)",
+            "target_audience": "Tailored for senior citizens seeking high interest rates on their savings, offering secure returns with tax benefits."
+        },
+        {
+            "plan": "Sukanya Samriddhi Yojana",
+            "target_audience": "Designed for parents of girl children below 10 years, providing a long-term savings scheme for their education and marriage expenses."
+        },
+        {
+            "plan": "Child Education Plans",
+            "target_audience": "Suitable for individuals planning for their child's education expenses, offering investment options to build a corpus for future educational needs."
+        },
+        {
+            "plan": "Home Loan Schemes",
+            "target_audience": "Geared towards individuals seeking home loans for purchasing or constructing a residential property, typically offered by banks and financial institutions."
+        },
+        {
+            "plan": "Index Funds",
+            "target_audience": "Ideal for investors seeking diversified exposure to the stock market with lower management fees, tracking a specific market index."
+        },
+        {
+            "plan": "Bond Mutual Funds",
+            "target_audience": "Suited for investors seeking income generation and diversification through a portfolio of bonds managed by professionals."
+        },
+        {
+            "plan": "Money Market Funds",
+            "target_audience": "Designed for investors seeking stability and liquidity, investing in short-term, low-risk securities such as Treasury bills and commercial paper."
+        },
+        {
+            "plan": "Real Estate Investment Trusts (REITs)",
+            "target_audience": "Tailored for investors seeking exposure to real estate assets without directly owning property, offering dividends and potential capital appreciation."
+        },
+        {
+            "plan": "Commodity Funds",
+            "target_audience": "Suited for investors seeking diversification and inflation hedging through exposure to physical commodities such as gold, oil, and agriculture."
+        },
+        {
+            "plan": "International Mutual Funds",
+            "target_audience": "Ideal for investors seeking exposure to foreign markets and currencies, offering diversification benefits and potential higher returns."
+        },
+        {
+            "plan": "Target-Date Funds",
+            "target_audience": "Designed for investors with specific retirement dates in mind, adjusting asset allocation over time to become more conservative as retirement approaches."
+        },
+        {
+            "plan": "Robo-Advisors",
+            "target_audience": "Geared towards investors seeking automated investment management services, utilizing algorithms to create and manage a diversified portfolio based on individual goals and risk tolerance."
+        },
+        {
+            "plan": "I want to invest in real estate to earn more money",
+            "target_audience": "Real estate can be a great investment option for long-term wealth building. You may consider exploring Real Estate Investment Trusts (REITs) or Home Loan Schemes to get started. Would you like more details about these options?"
+        }
+    ]
+}
